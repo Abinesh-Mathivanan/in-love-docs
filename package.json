@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "docsify-copy-code": "^3.0.0"
+  }
+}
